@@ -116,4 +116,4 @@ This project is open-source under the **MIT License**.
 ## 📬 Contact & Support
 For inquiries or collaboration, reach out to:
 📧 Email: `ezra.yalley@gmail.com`  
-🌐 GitHub: [Your GitHub Profile](https://github.com/ezrayalley)
+🌐 GitHub: [https://github.com/ezrayalley](https://github.com/ezrayalley)
